@@ -2,11 +2,9 @@
 
 ## About Me
 
-My interest in cybersecurity started from a general curiosity about computers during high school. By the time I entered college, I had decided to pursue cybersecurity as a career path. I studied Computer Science with a specialization in Information Security at VIT, Vellore, which helped me build a strong foundation in computing, security concepts, and technical problem-solving.
+My interest in cybersecurity started from a general curiosity about computers during high school. By the time I entered college, I had decided to pursue cybersecurity as a career path. I graduated with a degree in Computer Science Engineering with a specialization in Information Security from VIT, Vellore, which helped me build a strong foundation in computing, security concepts, and technical problem-solving.
 
-After completing my degree, I began my professional cybersecurity journey as a SOC Analyst, where I gained hands-on experience in monitoring, investigating, and responding to security alerts. I later moved into a SOC Consultant role in Qatar, where I continue to develop my skills in security operations, threat detection, and incident response. I was also selected as a 2025 Paller Cybersecurity Scholarship Winner, through which I am currently continuing my cybersecurity learning and professional development.
-
-Some professional details have been generalized for privacy while still accurately reflecting my cybersecurity background.
+After graduation, I began my professional cybersecurity journey as a SOC Analyst in India, where I gained hands-on experience in monitoring, investigating, and responding to security alerts. I later moved into a SOC Consultant role in Qatar, where I continue to develop my skills in security operations, threat detection, and incident response. I was also awarded the Paller Cybersecurity Scholarship in 2025, through which I am currently continuing my cybersecurity learning and professional development.
 
 ## CTF Reflection
 
